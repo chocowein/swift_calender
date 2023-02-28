@@ -1,0 +1,14 @@
+# Build artifacts
+build/
+DerivedData/
+
+# Xcode user-specific files
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.xcworkspace
+*.xccheckout
+
+# Swift Package Manager
+.build/
